@@ -1,0 +1,22 @@
+{
+  "name": "async-lodash",
+  "version": "1.0.0",
+  "description": "collections/object utilities with async/await support",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "array",
+    "lodash"
+  ],
+  "dependencies": {
+    "lodash":"^4.17.11"
+  },
+  "author": "sarunya",
+  "license": "ISC"
+}

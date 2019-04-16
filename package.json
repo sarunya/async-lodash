@@ -1,10 +1,11 @@
 {
-  "name": "async-lodash",
+  "name": "async-dash",
   "version": "1.0.0",
   "description": "collections/object utilities with async/await support",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +16,16 @@
     "lodash"
   ],
   "dependencies": {
-    "lodash":"^4.17.11"
+    "lodash": "^4.17.11"
   },
   "author": "sarunya",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarunya/async-lodash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sarunya/async-lodash/issues"
+  },
+  "homepage": "https://github.com/sarunya/async-lodash#readme"
 }

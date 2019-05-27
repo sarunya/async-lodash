@@ -1,6 +1,6 @@
 {
   "name": "async-dash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "collections/object utilities with async/await support",
   "main": "index.js",
   "directories": {

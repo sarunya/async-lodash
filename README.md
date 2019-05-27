@@ -1,6 +1,7 @@
 # async-lodash
+
 Extended from lodash to make it work with async/await.
-This has all properties of lodash.
+
 Collections/object utilities with async/await support.
 
 

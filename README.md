@@ -1,5 +1,7 @@
 # async-lodash
-collections/object utilities with async/await support
+Extended from lodash to make it work with async/await.
+This has all properties of lodash.
+Collections/object utilities with async/await support.
 
 
 # Usage In Nodejs
@@ -14,7 +16,7 @@ _.asyncMap(array, asyncFn);
 _.asyncRemove(array, asyncFn); //returns removed values as array
 _.asyncFilter(array, asyncFn); //returns filtered values as array
 _.asyncFilterOne(array, asyncFn); //returns filtered value
-_.sleep(timeinms);
+_.asyncSleep(timeinms);
 ```
 
 Async Filter Array: 

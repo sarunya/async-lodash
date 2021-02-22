@@ -1,6 +1,6 @@
 {
   "name": "async-dash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "collections/object utilities with async/await support",
   "main": "index.js",
   "directories": {
@@ -14,7 +14,12 @@
     "async",
     "array",
     "lodash",
-    "await"
+    "await",
+    "async in lodash",
+    "async await map",
+    "await in lodash",
+    "async lodash",
+    "asynchronous lodash"
   ],
   "dependencies": {
     "lodash": "^4.17.11"
